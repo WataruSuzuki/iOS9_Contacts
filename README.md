@@ -1,2 +1,2 @@
 # iOS9_Contacts
-Not yet..
+This is a sample how to use Contacts.framework from iOS9 SDK.
